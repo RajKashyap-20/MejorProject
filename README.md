@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AcadLink
 
 AcadLink is a student-to-student academic problem-solving platform. It is built as a Vite/React single-page app with Vercel serverless API routes and MongoDB Atlas persistence.
@@ -103,3 +104,6 @@ New sessions and image uploads use AcadLink identifiers. Existing sessions and s
 The application includes profiles, problem posts, public solutions and reactions, approval-gated private conversations, Cloudinary image handling, notifications, and admin moderation/account suspension. Private conversation APIs re-check membership and approved-solution access on the server.
 
 Run `npm test -- --test-reporter=dot` and `npm run build` before deployment. Live database and image-upload flows require valid Atlas and Cloudinary credentials; these external integrations are not exercised by the local unit tests.
+=======
+# MejorProject
+>>>>>>> 4092ce939a7d181d48a2085547910a4706fc4e37
